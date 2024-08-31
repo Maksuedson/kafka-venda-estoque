@@ -5,8 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b47b4774-4f5a-4a03-9929-f14aeca76447" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/estoque-service/src/main/java/com/kipper/estoqueservice/service/EstoqueListener.java" beforeDir="false" afterPath="$PROJECT_DIR$/estoque-service/src/main/java/com/kipper/estoqueservice/service/EstoqueListener.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
